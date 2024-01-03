@@ -1,3 +1,3 @@
 # E-Commerce-Web-Application
 My First Git Repository !
-Author-H.M.Ameen Ijaz
+Author-H.M.Ameen Ijaz (Jolly Bird Assistant)
